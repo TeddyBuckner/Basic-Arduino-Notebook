@@ -1,0 +1,1 @@
+I have not gotten much done, I have gotten my ardino kit and have made my acount and dounladed the needed app. I have learned about the Ardino a tiny bit and am about to get on with th blinking light.
