@@ -1,6 +1,7 @@
 12/2/2020
 I have finished the led Projects. With my dad's help I quickly exceled and finished them quickly. I have found that coding is a lot like a math equation and have leared a lot this week.
 [link to LED Blink Revisited](https://cvilleschools.instructure.com/courses/31056/assignments/303462?module_item_id=1030774)
+and 
 [link to Finite Blinker](https://cvilleschools.instructure.com/courses/31056/assignments/304684?module_item_id=1037478)
 
 11/20/2020
