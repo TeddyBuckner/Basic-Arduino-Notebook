@@ -1,3 +1,6 @@
+12/11/2020
+This week was slow. I have not finished any new assinments but I have gone through the latest assinments reading them and planning out how to do them.
+
 12/2/2020
 I have finished the led Projects. With my dad's help I quickly exceled and finished them quickly. I have found that coding is a lot like a math equation and have leared a lot this week.
 [link to LED Blink Revisited](https://cvilleschools.instructure.com/courses/31056/assignments/303462?module_item_id=1030774)
